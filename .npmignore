@@ -1,0 +1,9 @@
+node_modules/
+example/
+src/
+test/
+package-lock.json
+tsconfig.json
+.gitignore
+.gitattributes
+rollup.config.mjs
